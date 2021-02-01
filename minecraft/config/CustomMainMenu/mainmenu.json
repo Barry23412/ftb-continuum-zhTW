@@ -37,7 +37,7 @@
       },        
       "multiplayer":
       {
-          "text" : "多人模式",
+          "text" : "多人遊戲",
           "posX" : 0,
           "posY" : -40,
     "textOffsetX" : -24,
@@ -100,7 +100,7 @@
       },
       "support":
       {
-          "text" : "模組包問題追蹤",
+          "text" : "模組包問題追蹤器",
           "posX" : 0,
           "posY" : 20,
     "textOffsetX" : -11,
@@ -121,7 +121,7 @@
       },		
       "changelog":
       {
-          "text" : "更新紀錄",
+          "text" : "更新日誌",
           "posX" : 0,
           "posY" : 40,
     "textOffsetX" : -24,
@@ -229,7 +229,7 @@
   "labels":
   {
   "forge":{
-    "text" : "Forge #forgeversion#",
+    "text" : "Forge版本 #forgeversion#",
           "posX" : 2,
           "posY" : -13,
     "fontSize" : .6,
@@ -238,7 +238,7 @@
           "alignment" : "bottom_left"
   },
   "modsloaded":{
-    "text" : "#modsloaded# Mods Loaded",
+    "text" : "總共載入了 #modsloaded# 個模組",
           "posX" : 2,
           "posY" : -7,
     "fontSize" : .6,
@@ -247,7 +247,7 @@
           "alignment" : "bottom_left"
   },
   "minecraft":{
-    "text" : "Minecraft 1.12.2",
+    "text" : "Minecraft版本 1.12.2",
           "posX" : -50,
           "posY" : -13,
     "fontSize" : .6,
@@ -256,7 +256,7 @@
           "alignment" : "bottom_right"
   },
   "mojang":{
-          "text" : "Copyright Mojang AB",
+          "text" : "Mojang AB 版權所有",
           "posX" : -65,
           "posY" : -7,
     "fontSize" : .6,
